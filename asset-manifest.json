@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.cfa35752.css",
+    "main.js": "/personal-portfolio/static/js/main.3582b0c8.js",
+    "static/media/sampleimg1.jpg": "/personal-portfolio/static/media/sampleimg1.5139953b19ab7ffbada5.jpg",
+    "static/media/react-logo.png": "/personal-portfolio/static/media/react-logo.2f2532db663fd5ec5f95.png",
+    "static/media/sampleimg3.jpg": "/personal-portfolio/static/media/sampleimg3.bb37c8aa2ac0eeb3fe3b.jpg",
+    "static/media/bootstrap-logo.png": "/personal-portfolio/static/media/bootstrap-logo.95f1e0a0a8bd32345509.png",
+    "static/media/photo.jpg": "/personal-portfolio/static/media/photo.ff4df50cd6a4ae167f79.jpg",
+    "static/media/postgre-logo.png": "/personal-portfolio/static/media/postgre-logo.205c6e1cf88f5fb991e4.png",
+    "static/media/python-logo.png": "/personal-portfolio/static/media/python-logo.d8b377f05522bf35de36.png",
+    "static/media/sampleimg2.jpg": "/personal-portfolio/static/media/sampleimg2.3fb2fedd05fd1fcc1670.jpg",
+    "static/media/wa-logo.png": "/personal-portfolio/static/media/wa-logo.91013252d48a4e4178ee.png",
+    "static/media/html-logo.png": "/personal-portfolio/static/media/html-logo.1d7b133e22ffe4829da6.png",
+    "static/media/ig-logo.png": "/personal-portfolio/static/media/ig-logo.da33b818d1f20ce83d34.png",
+    "static/media/css-logo.png": "/personal-portfolio/static/media/css-logo.9f33c557b92e4e2e1cc8.png",
+    "static/media/hapi-logo.png": "/personal-portfolio/static/media/hapi-logo.7d49d0463c5e112fce0a.png",
+    "static/media/gmail-logo.png": "/personal-portfolio/static/media/gmail-logo.f7137a4a567cbbb87e61.png",
+    "static/media/msft.png": "/personal-portfolio/static/media/msft.2670a454c456e45a3a88.png",
+    "static/media/spring-logo.png": "/personal-portfolio/static/media/spring-logo.3859d63e54eba55c0f62.png",
+    "static/media/tsla.png": "/personal-portfolio/static/media/tsla.5856af44af59c1ee0c2a.png",
+    "static/media/django-logo.png": "/personal-portfolio/static/media/django-logo.4c399895f677cd3bfbc8.png",
+    "static/media/js-logo.png": "/personal-portfolio/static/media/js-logo.3cacb63905f322fb3541.png",
+    "static/media/linkedin-logo.png": "/personal-portfolio/static/media/linkedin-logo.1e0f45bbfaa150fc7e37.png",
+    "static/media/git-logo.png": "/personal-portfolio/static/media/git-logo.fd1a85d6be07fd88fb05.png",
+    "static/media/loadrunner-logo.png": "/personal-portfolio/static/media/loadrunner-logo.54a0b2fa4dc9d37dbe06.png",
+    "static/media/github-logo.png": "/personal-portfolio/static/media/github-logo.987334e9f782cc505f25.png",
+    "static/media/aapl.png": "/personal-portfolio/static/media/aapl.ee71de4910835faf2977.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.cfa35752.css.map": "/personal-portfolio/static/css/main.cfa35752.css.map",
+    "main.3582b0c8.js.map": "/personal-portfolio/static/js/main.3582b0c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa35752.css",
+    "static/js/main.3582b0c8.js"
+  ]
+}
