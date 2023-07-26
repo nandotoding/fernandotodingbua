@@ -6,6 +6,7 @@ import {crslData} from "../data/crslData";
 import {homeStyle} from "./style";
 import Welcome from "../components/body-components/home/Welcome";
 import {welcomeData} from "../data/welcomeData";
+import MaintainPage from "../others/MaintainPage";
 
 const apiToken = process.env.REACT_APP_API_TOKEN;
 
@@ -30,7 +31,8 @@ const Home = () => {
                 <div>
                     <HomeCarousel data={crslData}/>
                 <div>
-                    <Welcome data={welcomeData}/>
+                    {/*<Welcome data={welcomeData}/>*/}
+                    <MaintainPage/>
                 </div>
                     <Stock data={stock} imgs={stockData}/>
                 </div>
